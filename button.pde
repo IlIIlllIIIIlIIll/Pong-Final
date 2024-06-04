@@ -12,3 +12,4 @@ class Button extends Rectangle {
     return nightMode;
   }//backgroundColor
 }//end Button
+//new
