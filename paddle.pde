@@ -20,7 +20,7 @@ class Paddle extends Rectangle {
     this.h = (playAreaHeight * startPositionDifferent);
     this.y = (playAreaY/2) + (playAreaHeight/2) - (h/2);
     this.paddleTravel = (playAreaHeight/50);//paddle speed
-    this.c = randomColor();
+    this.c = #fa00f2;
   }//end Paddle
   //
   //Methods

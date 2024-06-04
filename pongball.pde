@@ -10,7 +10,7 @@ class Ball extends Circle {
     this.w = referentMeasures/25;
     this.xVelocity = yDirection();
     this.yVelocity = xDirection();
-    c = randomColor();
+    c = 0;
   }//end Ball
   //Methods
   void drawing() {
