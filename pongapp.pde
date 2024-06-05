@@ -1,7 +1,7 @@
 //Global Variables
 color strokeColor = #FFFFFF;
-color background = #fa00f2;
-color secondaryColor = #bdb828;
+color background = #228B22;
+color secondaryColor = #83A02D;
 PongPlayArea pongPlayArea;
 //Firework[] firework = new Firework[10];
 Ball firstBall;
